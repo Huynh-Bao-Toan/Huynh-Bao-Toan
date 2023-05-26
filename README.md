@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Huynh Bao Toan </h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 <br>
-<p><img align="right" src="./gif/giphy.gif" alt="adam-pw" /></p>
+<p><img align="right" src="./gif/giphy1.gif" alt="adam-pw" /></p>
 - 🌱 I’m currently learning Web Development and other programming languages
 
 - 📫 How to reach me **toanit2382002@gmail.com**
@@ -25,6 +25,7 @@
 <br>
 <br>
 <br>
+
 ```js
 class Developer {
     constructor(name, dateOfBirth, university, location, skills){
