@@ -8,6 +8,7 @@
     <img src="./assets/typing.svg" alt="Typing SVG" />
   </p>
 
+  <!-- Quick Social Badges -->
   <p align="center">
     <a href="https://www.linkedin.com/in/toan-huynh-bao-397a42258/" target="_blank">
       <img src="./assets/badges/linkedin.svg" alt="LinkedIn"/>
@@ -24,14 +25,27 @@
 
 ### 🚀 About Me
 
-> *"Bridging scalable software architecture with modern Artificial Intelligence."*
-
-I am an **AI Engineer** with a solid foundation in **Full-Stack Development**. Having worked extensively on system design, scalable backends, and full-stack applications, I combine software engineering best practices with Machine Learning to build and ship robust, production-grade AI solutions.
-
-- 🧠 **AI Specialization**: Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Autonomous Multi-Agent Workflows, and Deep Learning.
-- 💻 **Full-Stack Engineering**: Distributed backend systems, REST/GraphQL APIs, microservices, asynchronous message queues, and responsive frontends.
-- ⚙️ **Production MLOps**: End-to-end pipelines from model prototyping and vector search indexing to containerized serving, monitoring, and scalable cloud deployments.
-- 🎯 **Engineering Mindset**: Pragmatic, clean code, highly maintainable architectures, and delivering real business value.
+<table>
+  <tr>
+    <td valign="top" width="68%">
+      <blockquote>
+        <em>"Bridging scalable software architecture with modern Artificial Intelligence."</em>
+      </blockquote>
+      <p>
+        I am an <strong>AI Engineer</strong> with a solid foundation in <strong>Full-Stack Development</strong>. Having worked extensively on system design, scalable backends, and full-stack applications, I combine software engineering best practices with Machine Learning to build and ship robust, production-grade AI solutions.
+      </p>
+      <ul>
+        <li>🧠 <strong>AI Specialization</strong>: Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Autonomous Multi-Agent Workflows, and Deep Learning.</li>
+        <li>💻 <strong>Full-Stack Engineering</strong>: Distributed backend systems, REST/GraphQL APIs, microservices, asynchronous message queues, and responsive frontends.</li>
+        <li>⚙️ <strong>Production MLOps</strong>: End-to-end pipelines from model prototyping and vector search indexing to containerized serving, monitoring, and scalable cloud deployments.</li>
+        <li>🎯 <strong>Engineering Mindset</strong>: Pragmatic, clean code, highly maintainable architectures, and delivering real business value.</li>
+      </ul>
+    </td>
+    <td align="center" valign="middle" width="32%">
+      <img src="./assets/ironman.gif" width="230" alt="Iron Man Animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
