@@ -9,8 +9,12 @@
   </p>
 
   <p align="center">
-    <a href="https://linkedin.com/in/"><img src="./assets/badges/linkedin.svg" alt="LinkedIn"/></a>
-    <a href="mailto:your-email@example.com"><img src="./assets/badges/email.svg" alt="Email"/></a>
+    <a href="https://www.linkedin.com/in/toan-huynh-bao-397a42258/" target="_blank">
+      <img src="./assets/badges/linkedin.svg" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:toanit2382002@gmail.com">
+      <img src="./assets/badges/email.svg" alt="Email"/>
+    </a>
     <img src="./assets/badges/location.svg" alt="Location"/>
   </p>
 
@@ -20,18 +24,18 @@
 
 ### 🚀 About Me
 
-> *"Bridging the power of scalable web architectures with state-of-the-art Artificial Intelligence."*
+> *"Bridging scalable software architecture with modern Artificial Intelligence."*
 
-I am an **AI Engineer** with a solid foundation in **Full-Stack Development**. Having built enterprise web applications and scalable backends, I leverage software engineering rigor to design, train, and deploy production-ready Machine Learning and Generative AI systems.
+I am an **AI Engineer** with a solid foundation in **Full-Stack Development**. Having worked extensively on system design, scalable backends, and full-stack applications, I combine software engineering best practices with Machine Learning to build and ship robust, production-grade AI solutions.
 
-- 🧠 **AI Focus**: Deep Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Autonomous AI Agents & Computer Vision.
-- 💻 **Engineering Roots**: High-performance backend architectures, microservices, RESTful/GraphQL APIs, and responsive frontends.
-- ⚙️ **End-to-End Mindset**: Bridging the gap from model research and experimentation to production MLOps, CI/CD pipelines, and cloud scalability.
-- 📚 **Continuous Learner**: Passionate about reading, writing, and staying at the bleeding edge of AI advancements.
+- 🧠 **AI Specialization**: Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Autonomous Multi-Agent Workflows, and Deep Learning.
+- 💻 **Full-Stack Engineering**: Distributed backend systems, REST/GraphQL APIs, microservices, asynchronous message queues, and responsive frontends.
+- ⚙️ **Production MLOps**: End-to-end pipelines from model prototyping and vector search indexing to containerized serving, monitoring, and scalable cloud deployments.
+- 🎯 **Engineering Mindset**: Pragmatic, clean code, highly maintainable architectures, and delivering real business value.
 
 ---
 
-### 🛠️ Tech Stack & Capabilities
+### 🛠️ Core Competencies & Tech Stack
 
 <div align="center">
 
@@ -64,31 +68,21 @@ I am an **AI Engineer** with a solid foundation in **Full-Stack Development**. H
 
 <br/>
 
-#### ☁️ DevOps, Cloud & Tools
+#### ☁️ DevOps, Cloud & Tooling
 <img src="./assets/skills-devops.svg" alt="DevOps & Cloud Skills" />
 
 </div>
 
 ---
 
-### 📊 GitHub Analytics & Activity
+### 🏗️ Engineering Architecture Focus
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img height="180em" src="./assets/stats-main.svg" alt="Huynh Bao Toan's GitHub Stats" />
-      </td>
-      <td align="center">
-        <img height="180em" src="./assets/stats-langs.svg" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <img src="./assets/stats-streak.svg" alt="Streak Stats" />
-</div>
+| Domain | Key Focus Areas |
+| :--- | :--- |
+| **Generative AI & LLMs** | RAG pipelines, Knowledge graphs, Context optimization, Function calling, Agentic orchestration |
+| **System & Backend** | High-concurrency APIs, Modular architecture, Caching layers, Resilient microservices |
+| **Data & Vector Search** | Vector embeddings, Hybrid search (dense + sparse), Data ingestion & preprocessing pipelines |
+| **MLOps & Deployment** | Docker containerization, GPU/CPU inference optimization, CI/CD automation, Cloud infrastructure |
 
 ---
 
